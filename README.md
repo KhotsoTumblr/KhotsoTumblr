@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KHOTSO MAOTA</h1>
 <h3 align="center">A RECENT IT GRADUATE, KEEN ABOUT THE IT INDUSTRY</h3>
 
-<p align="left"> <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"
+<img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khotsotumblr" alt="khotsotumblr" /></a> </p>
 
